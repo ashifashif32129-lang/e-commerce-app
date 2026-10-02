@@ -1,0 +1,7 @@
+Analyzing e_commerce_app...                                     
+
+   info • Don't invoke 'print' in production code. Try using a logging framework • lib/controllers/auth_controller.dart:102:7 • avoid_print
+   info • Don't invoke 'print' in production code. Try using a logging framework • lib/controllers/auth_controller.dart:103:7 • avoid_print
+warning • Unused import: 'home_screen.dart'. Try removing the import directive • lib/screens/login_screen.dart:4:8 • unused_import
+
+3 issues found. (ran in 4.3s)
